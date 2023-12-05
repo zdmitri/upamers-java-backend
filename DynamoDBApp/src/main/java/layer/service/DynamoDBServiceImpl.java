@@ -79,13 +79,14 @@ public class DynamoDBServiceImpl implements DynamoDBService {
 
     @Override
     public String updateUser(Map<String, String> pathParameters, String inputBody) {
+        return null;
 
-        //TODO Implement a record update by Id
-        /*
-        Add code that accepts parameters, finds required record by Id,
-        and update it in the table record according to provided parameters.
-        Returns a text message as operation result.
-        */
+    //     //TODO Implement a record update by Id
+    //     /*
+    //     Add code that accepts parameters, finds required record by Id,
+    //     and update it in the table record according to provided parameters.
+    //     Returns a text message as operation result.
+    //     */
     }
 
     @Override
